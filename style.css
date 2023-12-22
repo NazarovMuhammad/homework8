@@ -5,7 +5,7 @@ table, td, th{
 }
 table{
     border: 1px solid black;
-    
+    margin: auto;
     font-size: 1em
 }
 th:first-child {
@@ -22,7 +22,7 @@ th:last-child{
     padding: 10px 30px;
 
 }
-.i1:last-child,.i2:last-child,.i3:last-child,.i4:last-child,.i5:last-child,.i6:last-child,.i7:last-child,.i9:last-child,.i10:last-child,.i11:last-child{
+.i1:last-child,.i2:last-child,.i3:last-child,.i4:last-child,.i5:last-child,.i6:last-child,.i7:last-child,.i8:last-child,.i9:last-child,.i10:last-child,.i11:last-child{
     padding: 10px 10px;
     background-color: rgb(131, 245, 131);
     }
